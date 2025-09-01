@@ -15,7 +15,6 @@ A simple and interactive command-line application to fetch **real-time weather**
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/535amar/weather-cli.git
 cd weather-cli
 ### 2. Create & Activate Virtual Environment (Optional)
