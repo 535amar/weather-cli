@@ -5,7 +5,7 @@ from datetime import datetime
 
 init(autoreset=True) # Colorama init
 
-API_KEY = "5903708844704c3caae194703253008"
+API_KEY = "your_API_key_is_here"
 BASE_URL = "http://api.weatherapi.com/v1/forecast.json"
 
 def get_weather(city):
