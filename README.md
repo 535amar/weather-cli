@@ -40,6 +40,6 @@ python3 weather_ltr.py
 .WeatherAPI
 .Requests
 .Colorama
-#Auther :
+### Auther :
 Amarjith R H
 github: 535amar
