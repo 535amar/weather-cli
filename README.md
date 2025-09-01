@@ -4,7 +4,7 @@ A simple and interactive command-line application to fetch **real-time weather**
 
 ---
 
-## ✨ Features
+##  Features
 - 🌡️ Current temperature, condition, humidity, and wind speed  
 - 📅 3-day weather forecast with condition summaries  
 - ❌ Error handling for invalid city names or API issues  
@@ -40,3 +40,6 @@ python3 weather_ltr.py
 .WeatherAPI
 .Requests
 .Colorama
+#Auther :
+Amarjith R H
+github: 535amar
