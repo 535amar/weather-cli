@@ -42,4 +42,4 @@ python3 weather_ltr.py
 .Colorama
 ### Auther :
 Amarjith R H
-github: 535amar
+github: [535amar](https://github.com/535amar)
